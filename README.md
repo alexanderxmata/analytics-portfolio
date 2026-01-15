@@ -14,4 +14,3 @@ This repository contains end-to-end logistics analytics projects focused on tran
 
 ## About Me
 Career-switching analyst focused on logistics and supply chain analytics.
-# analytics-portfolio
